@@ -44,4 +44,4 @@ config = {
 
 ### Bingo sheet
 
-![alt text](https://github.com/Hung-Liang/bingo_sheet_maker/blob/master/bingo_sheet/sample.png?raw=true)
+![alt text](https://github.com/Hung-Liang/bingo_maker/blob/master/bingo_sheet/sample.png?raw=true)
