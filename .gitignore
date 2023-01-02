@@ -1,0 +1,6 @@
+.env
+output
+log
+__pycache__/
+archive
+asset/font.otf
